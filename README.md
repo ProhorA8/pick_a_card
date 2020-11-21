@@ -1,7 +1,8 @@
-Playing cards deck simulator
+# Playing cards deck simulator
 A simple ruby script that genearates a requested number of random cards from a deck.
 
-Usage
+# Usage
+```
 $ ruby main.rb
 
 How many cards do you pick?
@@ -10,3 +11,4 @@ How many cards do you pick?
 7d
 9s
 10c
+```
