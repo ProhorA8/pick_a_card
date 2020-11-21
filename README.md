@@ -2,7 +2,7 @@
 A simple ruby script that genearates a requested number of random cards from a deck.
 
 ## Usage
-```
+```html
 $ ruby main.rb
 
 How many cards do you pick?
